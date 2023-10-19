@@ -1,0 +1,19 @@
+name = 'letter'
+license = 'MIT'
+# licenselink = 'https://github.com/user/hugo-letter/LICENSE'
+description = 'A simple letter style Theme for Hugo'
+
+# The home page of the theme, where the source can be found
+# homepage = 'https://github.com/user/hugo-letter/'
+
+# If you have a running demo of the theme
+# demosite = 'https://owner.github.io/repo'
+
+# Taxonomy terms
+tags = ['personal', 'minimal', 'responsive']
+features = []
+
+# If the theme has a single author
+[author]
+  name = 'JPH2'
+  # homepage = 'Your website'
