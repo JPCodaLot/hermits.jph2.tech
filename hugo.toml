@@ -1,11 +1,11 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Entrance Announcement'
 
 theme = "letter"
 
 [params]
-logo = '/images/hermits-logo.jpg'
+logo = '/images/olmc-hermits-logo.jpg'
 
 [[menus.main]]
 name = 'Home'
