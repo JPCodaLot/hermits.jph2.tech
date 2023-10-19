@@ -3,3 +3,16 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 
 theme = "letter"
+
+[params]
+logo = '/images/hermits-logo.jpg'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Wishlist'
+url = 'https://wishlist.com/l/dzjqMJ'
+weight = 30
