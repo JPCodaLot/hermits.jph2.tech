@@ -10,7 +10,7 @@ J.P. leaves home to enter their community on December 30th, 2023. We have create
 
 {{< figure class="postcard-right" remote="https://jph2tech.s3.us-west-002.backblazeb2.com/hermits/st-teresa-of-avila.jpg" alt="St. Teresa of Ávila" >}}
 
-You are probably familiar with holy Carmelites nuns, such as St. Teresa of Ávila or St. Thérèse of Lisieux. Yet, the origin of the order can be traced to Mount Carmel in northwestern Israel, where a number of devout men, apparently former pilgrims and Crusaders, established themselves around 1155 A.D. They followed the example of the holy prophet St. Elias who lived as a contemplative solitary (3 Kings 17:1).
+You are probably familiar with holy Carmelites nuns, such as St. Teresa of Ávila or St. Thérèse of Lisieux. Yet, the origin of the order can be traced to Mount Carmel in northwestern Israel, where a number of devout men, apparently former pilgrims and Crusaders, established themselves around 1155 A.D. They followed the example of the holy prophet St. Elias who lived as a solitary contemplative (3 Kings 17:1).
 
 The Discalced Hermits of Our Lady of Mount Carmel are zealous for the glory of God, the spiritual renewal of the Church, and the sanctification of souls. These men are reviving the charism and religious observance of the ancient Carmelite Fathers and consecrate themselves to a contemplative life of prayer and sacrifice. Striving to emulate their saintly predecessors, the Hermits labor night and day in mental prayer, sacred liturgy, spiritual study, fraternal charity, silence, solitude, fasting and penance.
 
