@@ -4,6 +4,7 @@
     {{- end -}}
 		{{- if .Get "remote" -}}
 		    {{- $image := resources.GetRemote (.Get "remote") -}}
+		    {{- $image := $image.Resize "800x webp photo" -}}
     <img src="{{ $image.RelPermalink }}"
     {{- else -}}
     <img src="{{ .Get "src" }}"

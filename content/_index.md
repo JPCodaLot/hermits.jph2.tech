@@ -6,7 +6,7 @@ title: Home
 
 {{< figure class="postcard-center" remote="https://jph2tech.s3.us-west-002.backblazeb2.com/hermits/hermits-celebrating-mass.jpg" alt="hermits celebrating mass on a mountain" >}}
 
-JP leaves home to enter their community on December 30th, 2023. We have created this webpage to let you know a bit about what life as a Carmelite Hermit will be like and how you can support his religious vocation.
+J.P. leaves home to enter their community on December 30th, 2023. We have created this webpage to let you know a bit about what life as a Carmelite Hermit will be like and how you can support his religious vocation.
 
 {{< figure class="postcard-right" remote="https://jph2tech.s3.us-west-002.backblazeb2.com/hermits/st-teresa-of-avila.jpg" alt="St. Teresa of Ávila" >}}
 
