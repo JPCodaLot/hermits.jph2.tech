@@ -4,9 +4,9 @@ title: Home
 
 ## We are happy to announce that J.P. Harbaugh II has been accepted to enter the Discalced Hermits of Our Lady of Mount Carmel in Fairfield, Pennsylvania.
 
-{{< figure class="postcard-center" remote="https://jph2tech.s3.us-west-002.backblazeb2.com/hermits/hermits-celebrating-mass.jpg" alt="dermits celebrating mass on a mountain" >}}
+{{< figure class="postcard-center" remote="https://jph2tech.s3.us-west-002.backblazeb2.com/hermits/hermits-celebrating-mass.jpg" alt="hermits celebrating mass on a mountain" >}}
 
-He leaves home to enter their community on December 30th, 2023. We have created this webpage to let you know a bit about what J.P.’s life as a Carmelite Hermit will be like and how you can support his religious vocation.
+JP leaves home to enter their community on December 30th, 2023. We have created this webpage to let you know a bit about what life as a Carmelite Hermit will be like and how you can support his religious vocation.
 
 {{< figure class="postcard-right" remote="https://jph2tech.s3.us-west-002.backblazeb2.com/hermits/st-teresa-of-avila.jpg" alt="St. Teresa of Ávila" >}}
 
@@ -22,11 +22,10 @@ Upon entering, J.P. will receive his habit and begin a 6–12-month Postulancy. 
 
 {{< figure class="postcard-right" remote="https://www.edcarm.org/wp-content/uploads/2022/10/pa-1-1024-e1671488363681.jpg" alt="hermit meditating on a rock" >}}
 
-We can rejoice that J.P. has been blessed with such an excellent state of life and noble spiritual mission for the service of God and the Church. In order to foster and protect his spiritual life and religious formation, he must forgo the noise and distraction of all digital exchanges.  As immediate family members, we may exchange letters with J.P. and include brief messages about our relatives and friends.  After he has completed Postulancy, his immediate and extended family may visit for up to four days per year.  The Hermits do not leave the monastery to attend family gatherings, such as weddings or funerals. 
+We can rejoice that J.P. has been blessed with such an excellent state of life and noble spiritual mission for the service of God and the Church. In order to foster and protect his spiritual life and religious formation, he must forgo the noise and distraction of all digital exchanges. As immediate family members, we may exchange letters with J.P. and include brief messages about our relatives and friends. After he has completed Postulancy, his immediate and extended family may visit for up to four days per year. The Hermits do not leave the monastery to attend family gatherings, such as weddings or funerals.
 
-If you would like to support J.P., prayers are always necessary. We have also set up an Amazon Wishlist filled with items that he will need upon entering.  Of course, the Hermits rely on alms for their food and are always in need of regular donations.  Since the monastery was established in 2019, they have seen exponential growth.  To accommodate the additional 20 men entering this year, the Hermits are building their next monastery foundation in southern Colorado. More information can be found online.
+If you would like to support J.P., prayers are always necessary. We have also set up a wishlist filled with items that he will need upon entering. Of course, the Hermits rely on alms for their food and are always in need of regular donations. Since the monastery was established in 2019, they have seen exponential growth. To accommodate the additional 20 men entering this year, the Hermits are building their next monastery foundation in southern Colorado. More information can be found [online](https://edcarm.org/foundations/).
 
-[See Wishlist](https://wishlist.com/l/dzjqMJ)
+{{< button text="See Wishlist" link="https://wishlist.com/l/dzjqMJ" >}}
 
-Thank you for sharing in our excitement and joy as J.P. prepares for entrance to the religious life.
-As the Carmelites say, “May God reward you!”
+**Thank you for sharing in our excitement and joy as J.P. prepares for entrance to the religious life. As the Carmelites say, “May God reward you!”**

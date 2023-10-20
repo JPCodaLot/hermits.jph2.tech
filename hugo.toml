@@ -15,4 +15,10 @@ weight = 10
 [[menus.main]]
 name = 'Wishlist'
 url = 'https://wishlist.com/l/dzjqMJ'
+weight = 20
+
+[[menus.main]]
+name = 'Foundations'
+url = 'https://edcarm.org/foundations/'
 weight = 30
+
