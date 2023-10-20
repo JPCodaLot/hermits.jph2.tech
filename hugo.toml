@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hermit.jph2.tech/'
 languageCode = 'en-us'
 title = 'Entrance Announcement'
 
@@ -8,6 +8,7 @@ theme = "letter"
 logo = '/images/olmc-hermits-logo.jpg'
 author = 'JPH2 Tech'
 description = 'We are happy to announce that J.P. Harbaugh II has been accepted to enter the Discalced Hermits of Our Lady of Mount Carmel in Fairfield, Pennsylvania.'
+cardImg = 'https://jph2tech.s3.us-west-002.backblazeb2.com/hermits/hermits-celebrating-mass.jpg'
 
 [[menus.main]]
 name = 'Home'

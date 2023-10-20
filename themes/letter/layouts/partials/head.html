@@ -2,6 +2,13 @@
 <meta name="viewport" content="width=device-width">
 <meta name="description" content="{{ site.Params.description }}">
 <meta name="author" content="{{ site.Params.author }}">
+<meta property="og:title" content="{{ site.Title }}">
+<meta property="og:description" content="{{ site.Params.description }}">
+<meta property="og:type" content="article">
+<meta property="og:image" content="{{ ((resources.GetRemote site.Params.cardImg).Fill "1200x630").RelPermalink }}">
+<meta property="og:url" content="{{ site.BaseURL }}">
+<meta property="og:locale" content="{{ site.LanguageCode }}">
+<meta name="twitter:card" content="summary_large_image">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
