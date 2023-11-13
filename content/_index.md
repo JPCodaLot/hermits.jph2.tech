@@ -28,4 +28,4 @@ If you would like to support J.P., prayers are always necessary. We have also se
 
 {{< button text="See Wishlist" link="https://wishlist.com/l/dzjqMJ" >}}
 
-**Thank you for sharing in our excitement and joy as J.P. prepares for entrance to the religious life. As the Carmelites say, “May God reward you!”**
+#### Thank you for sharing in our excitement and joy as J.P. prepares for entrance to the religious life. As the Carmelites say, “May God reward you!”
