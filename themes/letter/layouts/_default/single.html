@@ -1,10 +1,13 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-
-  {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  <nav class="timeline">
+    {{ with .PrevInSection}}<a class="timeline-prev" href="{{ .Permalink }}">Prev</a>{{ end }}
+    {{ with .NextInSection }}<a class="timeline-next" href="{{ .Permalink }}">Next</a>{{ end }}
+    {{- $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" -}}
+    {{- $dateHuman := .Date | time.Format ":date_long" -}}
+    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  </nav>
+  <article class="sheet">
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+  </article>
 {{ end }}

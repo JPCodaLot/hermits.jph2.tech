@@ -70,6 +70,7 @@ main {
 }
 
 .sheet {
+  position: relative;
   box-sizing: border-box;
   margin: 1rem auto;
   padding: 1rem;
@@ -90,6 +91,14 @@ main {
     opacity: 1;
     transform: none;
   }
+}
+
+.datestamp {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 1rem;
+  font-weight: bold;
 }
 
 /* Images */
@@ -230,7 +239,14 @@ hr {
 }
 
 /* Footer */
+html, body {
+  height: 100%;
+}
+
 .footer {
+  position: sticky;
+  top: 100vh;
+  z-index: 1;
   text-align: center;
   color: #fffdec;
   background-color: #3d2f1b;
@@ -293,4 +309,46 @@ hr {
 .button:hover, .button:active {
   background-color: #523F24;
 }
+
+/* Timeline navigation controls */
+.timeline {
+  position: relative;
+  padding-bottom: 2px;
+  border: 0px solid #3d2f1b;
+  border-bottom-width: 2px;
+  font-weight: bold;
+  box-sizing: border-box;
+  margin: 2rem auto 1rem auto;
+  max-width: 784px;
+  text-align: center;
+}
+
+.timeline a {
+  text-decoration: none;
+}
+
+.timeline-prev {
+  left: 0;
+  position: absolute;
+}
+.timeline-prev:before {
+  content: "🡨";
+  padding: 0 0.5em 0 0.5em;
+  transition: 150ms linear padding;
+}
+.timeline-prev:hover:before {
+  padding: 0 1em 0 0;
+}
+
+.timeline-next {
+  right: 0;
+  position: absolute;
+}
+.timeline-next:after {
+  content: "🡪";
+  padding: 0 0.5em 0 0.5em;
+  transition: 150ms linear padding;
+}
+.timeline-next:hover:after {
+  padding: 0 0 0 1em;
 }

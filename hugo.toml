@@ -16,8 +16,8 @@ pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Wishlist'
-url = 'https://wishlist.com/l/dzjqMJ'
+name = 'Updates'
+pageRef = '/updates/'
 weight = 20
 
 [[menus.main]]
