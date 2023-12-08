@@ -4,7 +4,7 @@ title: Home
 
 ## We are happy to announce that J.P. Harbaugh II has been accepted to enter the Discalced Hermits of Our Lady of Mount Carmel in Fairfield, Pennsylvania.
 
-{{< figure class="postcard-center" remote="https://jph2tech.s3.us-west-002.backblazeb2.com/hermits/hermits-celebrating-mass.jpg" alt="hermits celebrating mass on a mountain" >}}
+{{< youtube class="video-fullwidth" src="https://www.youtube-nocookie.com/embed/8rNDav4hIOE?si=O46-d4DgvboHV3bG&rel=0" >}}
 
 J.P. leaves home to enter their community on December 30th, 2023. We have created this webpage to let you know a bit about what life as a Carmelite Hermit will be like and how you can support his religious vocation.
 

@@ -92,7 +92,7 @@ main {
   }
 }
 
-/* Images */
+/* Media */
 figure {
   margin: 0.5em 0;
 }
@@ -129,6 +129,11 @@ figure img {
     float: left;
   }
 
+}
+
+.video-fullwidth {
+  width: 100%;
+  margin: 0.5em 0;
 }
 
 /* Navbar */
